@@ -1,3 +1,9 @@
+##+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+## Created by: ran337287
+## Email: belongtoabcd@126.com
+## Copyright (c) 2018
+##+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 import torch
 import torch.nn.functional as F
 from torch.nn.modules.batchnorm import _BatchNorm
